@@ -1,0 +1,144 @@
+{
+  "company": {
+    "name": "Nuestra Panadería",
+    "logo": "/assets/images/logo.png"
+  },
+  "navigation": [
+    {
+      "name": "Sobre Nosotros",
+      "href": "product"
+    },
+    {
+      "name": "Contáctanos",
+      "href": "features"
+    }
+  ],
+  "callToAction": {
+    "text": "Get started",
+    "href": "#"
+  },
+  "mainHero": {
+    "title": "Roca",
+    "subtitle": "colors.",
+    "description": "Colores del cielo",
+    "img": "/assets/images/1.png",
+    "primaryAction": {
+      "text": "Get started",
+      "href": "#"
+    },
+    "secondaryAction": {
+      "text": "Email us",
+      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+    }
+  },
+  "product": {
+    "title": "Sobre Nosotros",
+    "items": [
+      {
+        "title": "Lo que hacemos",
+        "description": "Roca Colors es tu tienda de moda donde encontrarás prendas de vestir inspiradas en la naturaleza y el cielo. Nos especializamos en ofrecer ropa que combina estilo y comodidad, con diseños modernos y colores vibrantes que te harán destacar en cualquier ocasión.",
+        "img": "/assets/images/2.png"
+      },
+      {
+        "title": "Nuestro Objetivo",
+        "description": "Nuestro objetivo es ofrecer ropa vibrante y llena de vida, inspirada en la naturaleza y en los tonos del cielo. Cada pieza es cuidadosamente diseñada para ser cómoda y estilosa, brindándote una experiencia de moda que te haga sentir alegre y confiado.",
+        "img": "/assets/images/logo.png"
+      }
+    ]
+  },
+  "features": {
+    "title": "¡Contáctanos! ",
+    "subtitle": "¡Estamos aquí para ayudarte!",
+    "description": "Si necesitas más información o quieres contratar alguno de nuestros servicios, no dudes en contactarnos. Estamos disponibles para resolver tus dudas y brindarte la mejor atención.",
+    "items": [
+      {
+        "name": "Número",
+        "description": "+57 300 123456",
+        "icon": "/assets/images/phone.png"
+      },
+      {
+        "name": "Email",
+        "description": "minegocio@gmail.com",
+        "icon": "/assets/images/email.png"
+      },
+      {
+        "name": "Instagram",
+        "description": "@MiNegocio",
+        "icon": "/assets/images/insta.png"
+      },
+      {
+        "name": "Facebook",
+        "description": "Mi Negocio",
+        "icon": "/assets/images/facebook.jpg"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Pricing",
+    "items": [
+      {
+        "name": "Free",
+        "price": "$0",
+        "priceDetails": "for one user",
+        "features": [
+          "1 user",
+          "Basic Support",
+          "1 GB of storage",
+          "Email support"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": "$15",
+        "priceDetails": "per user",
+
+        "features": [
+          "5 users",
+          "Priority Support",
+          "10 GB of storage",
+          "Phone and Email support"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": "$29",
+        "priceDetails": "per user",
+        "features": [
+          "50 users",
+          "24/7 Support",
+          "100 GB of storage",
+          "Phone and Email support"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      }
+    ],
+    "socialMedia": {
+      "github": "https://github.com/",
+      "twitter": "https://twitter.com/",
+      "linkedin": "https://www.linkedin.com/in/"
+    }
+  }
+}
