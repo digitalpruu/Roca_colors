@@ -18,8 +18,8 @@
     "href": "#"
   },
   "mainHero": {
-    "title": "Roca",
-    "subtitle": "colors.",
+    "title": "ROCA",
+    "subtitle": "COLORS.",
     "description": "Colores del cielo",
     "img": "/assets/images/1.png",
     "primaryAction": {
@@ -36,7 +36,7 @@
     "items": [
       {
         "title": "Lo que hacemos",
-        "description": "Roca Colors es tu tienda de moda donde encontrarás prendas de vestir inspiradas en la naturaleza y el cielo. Nos especializamos en ofrecer ropa que combina estilo y comodidad, con diseños modernos y colores vibrantes que te harán destacar en cualquier ocasión.",
+        "description": "Somos fabricantes de camisetas para dama, caballero y niños. Nuestras camisetas para dama y niñas vienen con detalles especiales como apliques en pedrería, perlas, además de mensajes cristianos y de empoderamiento femenino. Las camisetas para caballeros y niños están enfocadas en diseños deportivos. Ofrecemos ventas al por mayor y al detal, con envíos nacionales e internacionales.",
         "img": "/assets/images/2.png"
       },
       {
@@ -53,23 +53,23 @@
     "items": [
       {
         "name": "Número",
-        "description": "+57 300 123456",
+        "description": "+57 319 3861521 / +57 305 7173152",
         "icon": "/assets/images/phone.png"
       },
       {
         "name": "Email",
-        "description": "minegocio@gmail.com",
+        "description": "ROCACOLORS0919@GMAIL.COM",
         "icon": "/assets/images/email.png"
       },
       {
         "name": "Instagram",
-        "description": "@MiNegocio",
+        "description": "@ROCA_COLORS1",
         "icon": "/assets/images/insta.png"
       },
       {
-        "name": "Facebook",
-        "description": "Mi Negocio",
-        "icon": "/assets/images/facebook.jpg"
+        "name": "Tiktok",
+        "description": "ROCA.COLORS",
+        "icon": "/assets/images/tiktok.png"
       }
     ]
   },
