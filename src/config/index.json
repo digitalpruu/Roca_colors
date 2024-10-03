@@ -69,7 +69,8 @@
       {
         "name": "Tiktok",
         "description": "ROCA.COLORS",
-        "icon": "/assets/images/tiktok.png"
+        "icon": "/assets/images/tiktok.png",
+        "url":""
       }
     ]
   },
