@@ -18,7 +18,7 @@ const MainHero = () => {
             <span className="text-tertiary">S</span>
           </span>
         </h1>
-        <p className="mt-3 text-base font-bold text-gray-500 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0">
+        <p className="mt-3 text-2xl font-bold italic text-gray-500 sm:mt-5 sm:text-3xl md:text-4xl lg:mx-0">
           {mainHero.description}
         </p>
         <div className="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start"></div>
