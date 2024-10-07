@@ -70,13 +70,13 @@
         "name": "Tiktok",
         "description": "ROCA.COLORS",
         "icon": "/assets/images/tiktok.png",
-        "url":""
+        "url": ""
       },
       {
         "name": "Facebook",
         "description": "Roca Colors Camisetas y Apliques",
         "icon": "/assets/images/facebook.jpg",
-        "url":"https://www.facebook.com/profile.php?id=61558995495082"
+        "url": "https://www.facebook.com/profile.php?id=61558995495082"
       }
     ]
   },
