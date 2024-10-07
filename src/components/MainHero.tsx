@@ -13,8 +13,8 @@ const MainHero = () => {
             <span className="text-primary">C</span>
             <span className="text-secondary">O</span>
             <span className="text-tertiary">L</span>
-            <span className="text-primary">O</span>
-            <span className="text-secondary">R</span>
+            <span className="text-fourth">O</span>
+            <span className="text-primary">R</span>
             <span className="text-tertiary">S</span>
           </span>
         </h1>
