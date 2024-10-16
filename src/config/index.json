@@ -64,12 +64,14 @@
       {
         "name": "Instagram",
         "description": "@ROCA_COLORS1",
-        "icon": "/assets/images/insta.png"
+        "icon": "/assets/images/insta.png",
+        "url": "https://www.instagram.com/roca_colors1/"
       },
       {
         "name": "Tiktok",
         "description": "ROCA.COLORS",
-        "icon": "/assets/images/tiktok.png"
+        "icon": "/assets/images/tiktok.png",
+        "url": "https://www.tiktok.com/@roca.colors"
       },
       {
         "name": "Facebook",
